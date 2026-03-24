@@ -12,7 +12,7 @@ public class Main {
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("庆之写的代码烂不烂 i = " + i);
-            System.out.println("庆之写的代码很抠脚");
+            System.out.println("庆之写的代码很抠脚OXOXOX");
         }
     }
 }
