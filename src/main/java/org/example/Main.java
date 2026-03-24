@@ -14,6 +14,7 @@ public class Main {
             System.out.println("庆之写的代码烂不烂 i = " + i);
             System.out.println("庆之写的代码很抠脚OXOXOX");
             System.out.println("瓜瓜乐是大帅哥");
+            System.out.println("瓜瓜乐绝对是大帅哥");
         }
     }
 }
