@@ -13,7 +13,7 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("庆之写的代码烂不烂 i = " + i);
             System.out.println("庆之写的代码很抠脚OXOXOX");
-            System.out.println("世松是gay吗？ 肯定是");
+            System.out.println("瓜瓜乐是大帅哥");
         }
     }
 }
